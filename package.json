@@ -1,0 +1,14 @@
+{
+  "name": "browser-monkey-electron-mocha",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-monkey": "^2.7.2",
+    "electron": "^5.0.0",
+    "electron-mocha": "^8.0.1"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
